@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
-- 💬 Ask me about **python, java, react ..**
+- 💬 Ask me about **Kotlin, java, android development ..**
 
 - 📫 How to reach me **saarav354@gmail.com**
 
